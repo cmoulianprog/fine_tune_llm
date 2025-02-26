@@ -1,0 +1,9 @@
+{
+    "model_name": "mistralai/Mistral-7B-Instruct",  
+    "dataset_path": "dataset/data.json",  
+    "output_dir": "models/fine_tuned_model",  
+    "learning_rate": 5e-5,  
+    "batch_size": 2,  
+    "epochs": 3,  
+    "weight_decay": 0.01  
+}
