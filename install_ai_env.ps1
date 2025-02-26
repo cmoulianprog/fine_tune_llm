@@ -4,7 +4,7 @@
 $pythonVersion = python --version 2>$null
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Python non trouvé. Installation en cours..."
-    Invoke-WebRequest -Uri "https://www.python.org/ftp/python/3.10.12/python-3.10.12-amd64.exe" -OutFile "python-installer.exe"
+    Invoke-WebRequest -Uri "https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe" -OutFile "python-installer.exe"
     Start-Process -FilePath "python-installer.exe" -ArgumentList "/quiet InstallAllUsers=1 PrependPath=1" -Wait
     Remove-Item "python-installer.exe"
 } else {
