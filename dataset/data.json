@@ -1,5 +1,25 @@
 [
-    { "text": "Un guerrier s'approche du boss et lui parle calmement..." },
-    { "text": "Le boss rugit et attaque immédiatement sans attendre." },
-    { "text": "L'ennemi semble hésiter en fonction de votre réputation." }
+    { "text": "Vous entrez dans la salle du trône, où le boss maléfique vous attend. Il vous fixe avec un sourire narquois et dit : 'Ah, le petit héros qui ose me défier. Quel plaisir...'" },
+    { "text": "Le boss se lève lentement de son trône, ses yeux brillant d'une lueur rouge. 'Vous ne savez pas ce que vous faites. Vous allez regretter cette décision !'" },
+    { "text": "Le boss éclate d'un rire malsain. 'Hahaha, vous vous tenez devant moi, pensant que vous avez une chance. Vous êtes bien naïf...'" },
+    { "text": "L'air devient lourd alors que le boss murmure d'une voix glaciale : 'Je suis le maître des ténèbres, et tu vas périr ici, dans cette salle.' Il lève sa main, une flamme noire dansant au bout de ses doigts." },
+    { "text": "Soudainement, le boss fond sur vous avec une vitesse effrayante, ses griffes prêtes à vous transpercer. 'Tu m'as défié, maintenant tu mourras sous ma rage !'" },
+    { "text": "Le boss frappe le sol de son marteau magique, créant un choc violent. 'Vous n'êtes qu'un insecte sous mes pieds ! Comment osez-vous me tenir tête ?'" },
+    { "text": "Une intense chaleur envahit la pièce. 'Avez-vous l'intention de m'arrêter avec votre épée ? C'est futile.' Le boss vous fixe de ses yeux enflammés, un rictus sur le visage." },
+    { "text": "Le boss se tourne, l'air pensif. 'Vous avez l'air d'un adversaire intéressant, mais pas de quoi me faire trembler. À moins que...'" },
+    { "text": "Le boss rit doucement. 'Tu as déjà perdu. Peu importe ce que tu fais, je suis invincible, et tu es à ma merci.' Il tend la main vers vous et des éclairs noirs commencent à se former autour de son poing." },
+    { "text": "Le boss commence à murmurer des incantations. 'Peu importe combien de fois tu essaies, tu échoueras. C'est ta fin, héros.' Des ombres tourbillonnent autour de lui." },
+    { "text": "Lorsque vous portez un coup au boss, il laisse échapper un cri de rage. 'Tu oses me toucher ? Tu payes cher cette audace !' Il fait un pas en avant, ses yeux pleins de haine." },
+    { "text": "Le boss lève sa main, et le sol tremble sous vos pieds. 'N'essaye pas de fuir, tu m'appartiens maintenant. Il est trop tard pour sauver ton âme !'" },
+    { "text": "En voyant que vous avez résisté à sa première attaque, le boss fronce les sourcils, une lueur d'incertitude traversant son regard. 'Impressionnant, mais vous ne tiendrez pas longtemps !'" },
+    { "text": "Le boss émet un grondement sourd en voyant vos progrès. 'Tu n'as pas encore vu ma vraie puissance. Prépare-toi à mourir dans la douleur !'" },
+    { "text": "Après avoir encaissé un coup, le boss rigole d'un air méprisant. 'Tu crois vraiment pouvoir me tuer avec ça ? Tu es bien faible... Mais continue, je t'accorde un peu de temps.'" },
+    { "text": "Le boss se tourne lentement vers vous. 'Je n'ai pas encore utilisé toute ma puissance. Cette souffrance que tu ressens, je vais la multiplier par dix.'" },
+    { "text": "Quand vous lui infligez de lourds dégâts, le boss s'effondre à genoux, mais ses yeux brillent d'une lumière rouge. 'C'est tout ce que tu as ? Je vais te faire regretter d'avoir jamais levé la main contre moi !'" },
+    { "text": "Le boss se relève, ses vêtements en cendres, son corps entouré d'une aura sombre. 'Trop faible, trop lent. La fin de ton histoire approche à grands pas...'" },
+    { "text": "Le boss rit comme un maniaque, sa voix résonnant dans toute la salle. 'Tu crois vraiment que tu vas gagner ? Je suis le destin incarné, et tu es déjà condamné !'" },
+    { "text": "Alors que vous lancez un dernier sort, le boss se met à pleurer de manière étrange, sa voix douce mais emplit de douleur. 'Tu ne comprends pas... Ce n'est pas moi qui te tue, c'est le destin...'" },
+    { "text": "Le boss frappe son poing contre son cœur. 'Tu ne sais pas ce que tu fais. Chaque blessure que tu m'infliges est une part de mon âme qui se déchire. Mais je suis toujours là, et tu ne pourras pas m'arrêter.'" },
+    { "text": "En voyant sa santé baisser, le boss devient de plus en plus furieux. 'Tu oses me vaincre ? Moi, l'être le plus puissant de ce monde ?!' Il se jette sur vous avec une rage démesurée." },
+    { "text": "Le boss, épuisé mais toujours menaçant, vous fixe d'un air sombre. 'Même si je meurs, je reviendrai. Rien ne peut m'arrêter.' Son corps commence à se dissoudre dans les ténèbres." }
 ]
